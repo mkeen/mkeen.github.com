@@ -1,3 +1,31 @@
 body {
 	background: #000;
+	font-family: Georgia, Times, Serif;
+	font-size: 100%;
+	margin: 281px 0 0 0;
+}
+
+img {
+	float: left;
+	margin: -12px 0 0 27px;
+}
+
+p {
+	color: #f0dcc3;
+	font-size: 3.3em;
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+	text-align: right;
+	text-transform: lowercase;
+	letter-spacing: .02em;
+}
+
+p.two {
+	font-size: 1.3em;
+}
+
+#content {
+	float: left;
+	width: 623px;
 }
